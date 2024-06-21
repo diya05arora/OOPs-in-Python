@@ -40,3 +40,20 @@ print(type(a))
 # INSTANCES: objects that are created which follow the definition given inside of the class
 # Python doesn't use separate class interface definition as in some languages like Java
 
+# Methods in Classes
+# define a method in a class by including function definitions within the scope of the class block
+# There must be a special first argument self
+
+# Instantiating Objects with __init__()
+# __init__ is the default constructor
+
+# Data Abstraction
+# concept of hiding the internal details and describing things in simple terms
+# for example, a method that adds teo integers. The internal processing of the method is hidden from the outer world.
+# There are many ways to achieve abstraction in object-oriented programming, such as encapsulation and inheritance
+
+# Public, Protected and Private Data
+# name -> Public
+# _name -> Protected
+# __name -> Private
+
