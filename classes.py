@@ -29,4 +29,4 @@ print()
 # print(samp_obj.__var3) # Error, private variable
 samp_obj.display() # it will display the value of private variable also
 
-# public and privae variables work same for one class and different for multiple classes in case of INHERITANCE
+# public and private variables work same for one class and different for multiple classes in case of INHERITANCE

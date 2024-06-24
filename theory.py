@@ -57,3 +57,14 @@ print(type(a))
 # _name -> Protected
 # __name -> Private
 
+# Inheritance
+# where an object is based on another object
+# mechanism of code reuse
+# class which is getting inherited -> superclass
+# object that inherits the superclass -> subclass
+# Insted of starting from scratch, you can create a class by deriving it from a pre-existing class by listing the parent class in parentheses after the new class name.
+# the child class inherits the attributes of its parent class, and you can use those attributes as if they were defined in the child class.
+# A child class can also override data members and methods from the parent
+# Example: main parent class-> Account 
+# child class -> loan
+# child class of loan -> home loan and education loan
